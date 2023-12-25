@@ -3,8 +3,8 @@ import random
 import smtplib
 import datetime as dt
 
-MY_MAIL = "rafishadali@gmail.com"
-PASSWORD = "ibdb tszb tkdb ppao"
+MY_MAIL = "example@gmail.com"
+PASSWORD = "password"
 
 today = (dt.datetime.now().month, dt.datetime.now().day)
 
